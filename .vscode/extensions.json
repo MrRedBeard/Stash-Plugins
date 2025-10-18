@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "golang.go",
+    "mkhl.direnv",
+    "jnoortheen.nix-ide",
+    "editorconfig.editorconfig"
+  ]
+}

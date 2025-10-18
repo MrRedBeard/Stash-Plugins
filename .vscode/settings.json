@@ -1,0 +1,25 @@
+{
+  "go.useLanguageServer": true,
+  "gopls": {
+    "ui.semanticTokens": true,
+    "analyses": {
+      "unusedparams": true,
+      "nilness": true,
+      "shadow": true
+    },
+    "staticcheck": true
+  },
+  "go.formatTool": "gofumpt",
+  "go.toolsManagement.autoUpdate": true,
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": [
+    "--fast"
+  ],
+  "editor.formatOnSave": true,
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "direnv.restart.automatic": true
+}
