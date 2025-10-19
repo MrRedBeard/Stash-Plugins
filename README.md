@@ -7,7 +7,7 @@ go run .
 
 chmod +x ./build_site.sh
 
-https://MrRedBeard.github.io/Stash-Roku-App-Pairing-Extension/main/index.yml
+https://MrRedBeard.github.io/Stash-Roku-App-Pairing-Extension/index.yml
 
 # Template for creating Stash plugins source index
 

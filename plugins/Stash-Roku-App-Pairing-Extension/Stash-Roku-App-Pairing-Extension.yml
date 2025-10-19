@@ -1,0 +1,10 @@
+name: Stash-Roku-App-Pairing-Extension
+description: Rename/move filename based on a template.
+url: https://github.com/MrRedBeard/Stash-Plugins
+version: 1.0.0
+exec:
+  - plugin_duplicate_finder
+interface: rpc
+ui:
+  javascript:
+  - filepath-copy.js
